@@ -1,0 +1,1 @@
+Using more than one adjacent underscore is not a good idea because it makes typing errors more likely and does not help readability.

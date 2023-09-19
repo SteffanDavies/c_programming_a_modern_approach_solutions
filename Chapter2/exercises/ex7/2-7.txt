@@ -1,0 +1,4 @@
+The following are keywords in C:
+
+a) for
+e) while

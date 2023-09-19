@@ -1,0 +1,3 @@
+In C identifiers must begin with a letter or an underscore and may contain letters, underscores and digits
+
+a) is not a legal identifier because it starts with a number

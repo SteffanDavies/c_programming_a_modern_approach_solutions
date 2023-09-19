@@ -1,0 +1,5 @@
+There are 3 essential spaces in the dwight.c program:
+
+1 - Between int and main
+2 - Between int and height
+3 - Between return and 0
